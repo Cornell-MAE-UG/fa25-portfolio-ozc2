@@ -6,7 +6,7 @@ title: Olivia Chen
 ## About Me
 
 
-"assets/images/OZC_profile_picture"
+"assets/images/OZC_profile_picture.jpg"
 
 
  
