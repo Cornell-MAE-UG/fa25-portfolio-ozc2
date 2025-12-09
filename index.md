@@ -14,6 +14,9 @@ My name is Olivia Chen, I am a sophmore on a biomedical engineering track hoping
 
 Here is the link to my resume: assets/CV.pdf
 
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects and <a href="{{ "/cv/" | relative_url }}">CV.
+
+
 Below you can view my HW 5 project:
 ---
 layout: project
