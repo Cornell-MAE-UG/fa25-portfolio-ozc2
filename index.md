@@ -1,5 +1,5 @@
 ---
-layout: default
+
 title: Olivia Chen
 ---
 
@@ -11,6 +11,8 @@ title: Olivia Chen
 
  
 My name is Olivia Chen, I am a sophmore on a biomedical engineering track hoping to concentrate in BMDD.
+
+Here is the link to my resume: assets/CV.pdf
 
 Below you can view my HW 5 project:
 ---
