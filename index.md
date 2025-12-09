@@ -12,8 +12,8 @@ title: Olivia Chen
  
 My name is Olivia Chen, I am a sophmore on a biomedical engineering track hoping to concentrate in BMDD.
 
- Below you can view my HW 5 project:
- ---
+Below you can view my HW 5 project:
+---
 layout: project
 title: HW5
 description: Device to lift a bar I designed
